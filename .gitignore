@@ -104,3 +104,4 @@ properties.json
 
 # minio
 minio/
+.vscode/settings.json
